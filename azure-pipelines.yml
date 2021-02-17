@@ -13,7 +13,7 @@ variables:
   appName: ftosprotodevfunc
   # the name of your functionApp is what you provided as
   # stagingDirectory in pom.xml
-  functionAppName: 'Azure Java Functions'
+  functionAppName: 'camel-functions'
 # ...
 
 trigger:
